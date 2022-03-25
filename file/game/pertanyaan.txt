@@ -1,0 +1,121 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Kenapa eren menghancurkan dunia?",
+      "correct_answer": "ingin bebas",
+      "incorrect_answers": [
+        "Karna bucin",
+        "Yo ndak tau",
+        "Ingin injak marley"
+      ]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "siapakah waifu saya?",
+      "correct_answer": "1995",
+      "incorrect_answers": [
+        "1999",
+        "2001",
+        "1997"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Who won the 1989 Drum Corps International championships?",
+      "correct_answer": "Santa Clara Vanguard",
+      "incorrect_answers": [
+        "Blue Devils",
+        "The Academy",
+        "The Bluecoats"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is Gabe Newell&#039;s favorite class in Team Fortress 2?",
+      "correct_answer": "Spy",
+      "incorrect_answers": [
+        "Heavy",
+        "Medic",
+        "Pyro"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Johnny Cash did a cover of this song written by lead singer of Nine Inch Nails, Trent Reznor.",
+      "correct_answer": "Hurt",
+      "incorrect_answers": [
+        "Closer",
+        "A Warm Place",
+        "Big Man with a Gun"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "The Platypus is a mammal.",
+      "correct_answer": "True",
+      "incorrect_answers": [
+        "False"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+      "correct_answer": "Earth",
+      "incorrect_answers": [
+        "Venus",
+        "Mars",
+        "Uranus"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Albert Einstein had trouble with mathematics when he was in school.",
+      "correct_answer": "False",
+      "incorrect_answers": [
+        "True"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the alter-ego of the DC comics character &quot;Superman&quot;?",
+      "correct_answer": "Clark Kent",
+      "incorrect_answers": [
+        "Bruce Wayne",
+        "Arthur Curry",
+        "John Jones"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "From where does the Nintendo video game character Mario derive his name?",
+      "correct_answer": "The landlord of the American headquarters",
+      "incorrect_answers": [
+        "Shigeru Miyamoto&#039;s father in law",
+        "Satoru Iwata&#039;s plumber",
+        "The date (Mar 10) that Donkey Kong was released."
+      ]
+    }
+  ]
+}
